@@ -161,11 +161,3 @@ UPI-Transaction-Analytics/
 
 ---
 
-## 👨‍💻 Author
-
-**Sanju M G**
-
-Aspiring Data Analyst | Python | SQL | MySQL | Power BI | Data Analytics
-
----
-⭐ If you found this project useful, consider giving it a star!
